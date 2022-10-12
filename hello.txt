@@ -1,3 +1,0 @@
-hello world
-
-Taio Project Version 0.01
