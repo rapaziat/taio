@@ -15,6 +15,6 @@ Taio est un gestionnaire pour petite entreprise de magasin.
 
 ## AUTHEUR
 
-RAPA ZIAT
+RAPA ZIAT rapa.ziat@gmail.com
   
 
