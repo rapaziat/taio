@@ -13,5 +13,8 @@ Taio est un gestionnaire pour petite entreprise de magasin.
 
 - Editer, ajouter, modifier, supprimer les références, images, quantités et produits de votre magasin.
 
+## AUTHEUR
+
+RAPA ZIAT
   
 
